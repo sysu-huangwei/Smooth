@@ -1,0 +1,22 @@
+[
+    {
+        "id": "begin",
+        "nextIDs": ["smooth"]
+    },
+    {
+        "id": "smooth",
+        "nextIDs": ["correct"],
+        "filterDesc": {
+            "type": "SmoothFilter"
+        }
+    },
+    {
+        "id": "correct",
+        "filterDesc": {
+            "type": "CorrectSizeFilter",
+            "params": {
+                "CorrectSizeFilter_FlipY": "1"
+            }
+        }
+    }
+]

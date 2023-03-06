@@ -33,4 +33,4 @@
 <br>![在这里插入图片描述](https://img-blog.csdnimg.cn/b87376e25b9b44b3b02cab9259471a43.gif)
 
 ## Git地址：[https://github.com/sysu-huangwei/Smooth](https://github.com/sysu-huangwei/Smooth)
-## 博客地址：
+## 博客地址：[https://blog.csdn.net/q345911572/article/details/129362387](https://blog.csdn.net/q345911572/article/details/129362387)
